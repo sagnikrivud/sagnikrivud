@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**sagnikrivud/sagnikrivud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sagnikcapital/sagnikcapital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey there! I'm [Sagnik](https://in.linkedin.com/in/sagnik-dey-483423a9), a Software Engineer passionate about building cool stuff. I specialize in both frontend and backend technologies, with experience in IoT and various databases.
+
+## Skills
+
+### Frontend Technology
+- Vue
+- Angular
+- React
+
+### Backend Technology
+- Laravel 🚀
+- Lumen 🛠️
+- Node.js 🚀
+- Codeigniter 🖥️
+- CakePHP 🎂
+- Java ☕
+- Laraship
+- Shell Scripting
+
+### IoT
+- Arduino
+
+### Database
+- MySQL 🗃️
+- MSSQL Server 🗄️
+- MongoDB 🍃
+
+  ## Connect with Me
+
+Let's connect and discuss exciting projects! You can find me on [LinkedIn](https://in.linkedin.com/in/sagnik-dey-483423a9) and [GitHub](https://github.com/sagnikrivud).
+
+Feel free to reach out!
