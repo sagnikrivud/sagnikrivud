@@ -39,7 +39,7 @@ Hey there! I'm [Sagnik](https://in.linkedin.com/in/sagnik-dey-483423a9), a Softw
 
 ### Database
 - MySQL 🗃️
-- MSSQL Server 🗄️
+- MS SQL Server 🗄️
 - MongoDB 🍃
 
   ## Connect with Me
