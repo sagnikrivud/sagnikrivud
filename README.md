@@ -19,6 +19,7 @@ Hey there! I'm [Sagnik](https://in.linkedin.com/in/sagnik-dey-483423a9), a Softw
 - Java ☕
 - Laraship
 - Shell Scripting
+- C++
 
 ### IoT
 - Arduino
