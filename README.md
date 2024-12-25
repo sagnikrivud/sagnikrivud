@@ -29,6 +29,11 @@ Hey there! I'm [Sagnik](https://in.linkedin.com/in/sagnik-dey-483423a9), a Softw
 - MS SQL Server 🗄️
 - MongoDB 🍃
 
+### Operating Systems
+- Windows (7, 8, 10)
+- Ubuntu
+- Linux
+
 <h3 align="left">Statistics:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikrivud&show_icons=true&locale=en&layout=compact" alt="sagnikrivud" /></p>
